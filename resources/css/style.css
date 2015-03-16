@@ -1,0 +1,23 @@
+@import url('fillerText.css');
+
+body{
+    
+}
+
+p{
+    margin-left:15px;
+    margin-top:5px;
+}
+
+h1, h2, h3, h4, h5{
+    margin: 45px 15px 0px 15px;
+}
+
+.content{
+    width:80%;
+    margin-top:10%;
+    margin-left:10%;
+    margin-bottom:10%;
+    outline: 1111px inset #342B6E;
+    outline-offset: 1px;
+}
